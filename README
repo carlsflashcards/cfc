@@ -1,1 +1,5 @@
-The programs in this repository are all flashcard program, written in different languages.
+The programs in this repository are all flashcard programs written in different languages.  The file names describe the language.
+
+The perl program uses perl/TK.  The python program uses TKInter.
+
+See carlsflashcards.com for more info.
